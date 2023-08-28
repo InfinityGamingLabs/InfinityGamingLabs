@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitygaminglabs&label=Profile%20views&color=0e75b6&style=flat" alt="infinitygaminglabs" /> </p>
 
-- 🔭 I’m currently working on [EmulatorPi](https://github.com/InfinityGamingLabs/EmulatorPi.git)
+- 🔭 I’m currently working on [StreamasterPro](https://github.com/InfinityGamingLabs/EmulatorPi.git)
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on [EmulatorPi](https://github.com/InfinityGamingLabs/EmulatorPi.git)
+- 👯 I’m looking to collaborate on [StreamasterPro](https://github.com/InfinityGamingLabs/EmulatorPi.git)
 
-- 🤝 I’m looking for help with [EmulatorPi](https://github.com/InfinityGamingLabs/EmulatorPi.git)
+- 🤝 I’m looking for help with [StreamasterPro](https://github.com/InfinityGamingLabs/EmulatorPi.git)
 
 - 💬 Ask me about **C++, C#, HTML, CSS, JS(React), Fluttter, React Native and more**
 
